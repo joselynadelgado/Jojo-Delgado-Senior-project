@@ -1,6 +1,6 @@
 body{
   background-color:ivory;
-  font-size:16pt;
+  font-size:24pt;
 }
 
 .page {
@@ -26,7 +26,7 @@ body{
   border:2px solid blue;
   width:550px;
   margin:10px 0 10px 175px;
-  height:800px
+  height:1000px
 }
 
 .right {
