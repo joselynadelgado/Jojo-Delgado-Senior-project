@@ -18,23 +18,23 @@ body{
   border:2px solid green;
   width:150px;
   float:left;
-  margin:150px 0 10px 5px;
-  height:100px;
+  margin:250px 0 10px 5px;
+  height:180px;
 }
 
 .center {
   border:2px solid blue;
   width:550px;
   margin:10px 0 10px 175px;
-  height:1000px
+  height:1500px
 }
 
 .right {
   position:absolute;
-  top:150px;
+  top:250px;
   right:10px;
   border:2px solid green;
   width:150px;
   margin:0;
-  height:100px;
+  height:180px;
 }
