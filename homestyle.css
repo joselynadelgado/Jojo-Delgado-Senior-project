@@ -1,6 +1,6 @@
 .page {
   border:1px solid purple;
-  width:755px;
+  width:900px;
   margin:0 auto;
   padding:5px;
   text-align:left;
@@ -19,7 +19,7 @@
 
 .center {
   border:2px solid blue;
-  width:400px;
+  width:550px;
   margin:10px 0 10px 175px;
   height:300px
 }
