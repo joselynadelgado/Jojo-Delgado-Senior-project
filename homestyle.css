@@ -1,21 +1,25 @@
 body{
-  background-color:ivory;
+  background-color:black;
   font-size:24pt;
+  color:white;
+  text-decoration: none;
+  font-family: EBGaramond, serif;
 }
 
 .page {
-  border:1px solid purple;
+  border:1px black;
   width:900px;
   margin:0 auto;
   padding:5px;
   text-align:left;
-  position:relative
+  position:relative;
+  top:200px;
 }
 
 
 
 .left {
-  border:2px solid green;
+  border:2px black;
   width:150px;
   float:left;
   margin:250px 0 10px 5px;
@@ -23,7 +27,7 @@ body{
 }
 
 .center {
-  border:2px solid blue;
+  border:2px black;
   width:550px;
   margin:10px 0 10px 175px;
   height:1500px
@@ -31,10 +35,10 @@ body{
 
 .right {
   position:absolute;
-  top:250px;
+  top:255px;
   right:10px;
-  border:2px solid green;
-  width:150px;
+  border:2px black;
+  width:100px;
   margin:0;
-  height:180px;
+  height:100px;
 }
