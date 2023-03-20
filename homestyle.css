@@ -1,44 +1,8 @@
 body{
   background-color:#2e368f;
-  font-size:24pt;
+  font-size:14pt;
   color:white;
-  text-decoration: none;
-  font-family: EBGaramond, serif;
-}
-
-.page {
-  border:1px black;
-  width:900px;
-  margin:0 auto;
-  padding:5px;
-  text-align:left;
-  position:relative;
-  top:20px;
-}
-
-
-
-.left {
-  border:2px black;
-  width:150px;
-  float:left;
-  margin:250px 0 10px 5px;
-  height:180px;
-}
-
-.center {
-  border:2px black;
-  width:550px;
-  margin:10px 0 10px 175px;
-  height:1500px
-}
-
-.right {
-  position:absolute;
-  top:255px;
-  right:10px;
-  border:2px black;
-  width:100px;
-  margin:0;
-  height:100px;
+  font-family: EB Garamond, serif;
+  max-width: 400px;
+  position: center;
 }
