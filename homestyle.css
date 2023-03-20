@@ -18,9 +18,5 @@ body{
 .centered {
   position: absolute;
   top: 5px;
-  left: 15%;
-}
-
-.h1 {
-  font-size: 56pt;
+  left: 1%;
 }
